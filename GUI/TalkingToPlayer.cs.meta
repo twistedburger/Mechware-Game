@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e05292105819171458a675a173e87380
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - speechBox: {fileID: 2800000, guid: b701c07b8825fa24bbd2faf55d4bd191, type: 3}
+  - myFont: {fileID: 12800000, guid: 66818a8cf06d4024d9f45dee232af1b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

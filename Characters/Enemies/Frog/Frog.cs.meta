@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69c66a5a948d66e4f855d5b9dbb0b19c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - smallestTongue: {fileID: 21300012, guid: 1625e1a13c49bed499efe3e01c1a41f2, type: 3}
+  - smallerTongue: {fileID: 21300014, guid: 1625e1a13c49bed499efe3e01c1a41f2, type: 3}
+  - smallTongue: {fileID: 21300016, guid: 1625e1a13c49bed499efe3e01c1a41f2, type: 3}
+  - longTongue: {fileID: 21300018, guid: 1625e1a13c49bed499efe3e01c1a41f2, type: 3}
+  - longerTongue: {fileID: 21300020, guid: 1625e1a13c49bed499efe3e01c1a41f2, type: 3}
+  - longestTongue: {fileID: 21300022, guid: 1625e1a13c49bed499efe3e01c1a41f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
